@@ -1,7 +1,7 @@
 # Basic-Knowledge
 一些基础知识的总结
 
-- ## [计算机与系统]()
+- ## [计算机与系统](./computer)
     - ### [计算机发展史](./computer/history.md)
         
     - ### [计算机组成]()
